@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void teste(){
+        int i = 1+ 1;
 
     }
 }
